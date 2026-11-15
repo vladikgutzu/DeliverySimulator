@@ -2,7 +2,7 @@
 
 Portfolio source snapshot of a Unity delivery-game prototype with missions, shops, vehicle-oriented gameplay, persistence, and Photon-based multiplayer flow.
 
-Подробный стек и архитектурные решения: [TECHNOLOGIES.md](TECHNOLOGIES.md).
+For a detailed technology stack and architectural overview, see [TECHNOLOGIES.md](TECHNOLOGIES.md).
 
 ## Highlights
 
